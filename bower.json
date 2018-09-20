@@ -1,0 +1,42 @@
+
+
+{
+
+  "name": "syncfusion-ej-global-all",
+
+  "version": "16.3.21",
+
+  "description": "Bower package of localized texts of the Syncfusion Essential JavaScript widgets in various languages.",
+	
+  "authors": [
+    "Syncfusion Inc"
+  ],
+  
+  "license": "https://www.syncfusion.com/content/downloads/syncfusion_license.pdf",
+	
+  "homepage": "https://github.com/syncfusion/ej-global#readme",
+
+  "ignore": [
+
+    ".npmignore",
+
+    "package.json",
+    
+    ".gitignore",
+
+    "demos",
+
+	 "i18n/*",
+	 
+	 "!i18n/*.min.js",
+
+         "l10n/*",
+	 
+	 "l10n/reportdesigner/*",
+	 
+	 "!l10n/*.min.js"   
+   
+  ]
+	  
+}
+
